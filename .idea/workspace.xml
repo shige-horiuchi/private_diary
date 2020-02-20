@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f5caeec-d472-4ca5-9aea-8329c7810d97" name="Default Changelist" comment="" />
+    <list default="true" id="7f5caeec-d472-4ca5-9aea-8329c7810d97" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WpkUUBOt4NXGx20EbvHrtrqm3c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -195,14 +201,14 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state width="1224" height="170" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1581487632239" />
-    <state x="142" y="24" key="SettingsEditor" timestamp="1580107960784">
+    <state x="142" y="24" key="SettingsEditor" timestamp="1581644920022">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="142" y="24" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1580107960784" />
-    <state x="337" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1581578167340">
+    <state x="142" y="24" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1581644920022" />
+    <state x="337" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1582170538944">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="337" y="206" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1581578167340" />
+    <state x="337" y="206" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1582170538944" />
     <state x="303" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1580797424133">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
